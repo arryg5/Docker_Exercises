@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐳 Docker Mastery: My Containerization Journey
 
 Welcome to **Docker Mastery!** 🚀 This repository is a personal space where I document everything about Docker – from fundamental concepts to real-world containerization workflows. Whether you're just starting or already have experience, you'll find useful insights, best practices, and hands-on commands here. Let's dive into the world of containers! 🌍
@@ -121,3 +122,8 @@ Together, let's master Docker and revolutionize software deployment! 🌊🐳
 
 Happy coding! 🚀
 
+=======
+# Docker-Labs
+All the labs of Docker
+>>>>>>> 462b38a4cdf30e71ef69f040f2c4233ae54a5544
+# Docker_Exercises
